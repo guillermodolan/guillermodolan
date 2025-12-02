@@ -49,7 +49,7 @@ No solo escribo código, gestiono soluciones.
 ¿Tenés un proceso manual que te quita tiempo? ¿Datos que no sabés cómo aprovechar? Hablemos.
 
 <div align="left">
-  <a href="www.linkedin.com/in/guillermo-dolan-a94a72232">
+  <a href="https://www.linkedin.com/in/guillermo-dolan-a94a72232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Guillermo_Dolan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
