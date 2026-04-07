@@ -1,25 +1,40 @@
-## Hola, soy Guillermo Dolan 👋
+# Hola, soy Guillermo Dolan 👋
 
-### Information Systems Engineering (In progress) | RPA Developer & Data Analyst ###
+## Systems Engineer Student | AI & RPA Architect | Data Expert
 
-Soy un profesional apasionado por la  **inteligencia de datos** y la **automatización de procesos**. A punto de graduarme en la **UTN FRRo** (ubicada en Rosario, Santa Fé, Argentina), combino la ingeniería de software con herramientas No-Code/Low-Code para crear soluciones eficientes y escalables para empresas.
+Soy un **estudiante avanzado de Ingeniería en Sistemas de Información en la UTN FRRo** con una mentalidad de "builder". Mi enfoque es transformar datos complejos en soluciones estratégicas mediante **IA Agéntica**, **Automatización (RPA)** y **Data Engineering**.
 
-🔭 **Actualmente:** Trabajando en automatización de procesos, análisis de datos y me encuentro finalizando mi carrera.  
-🌱 **Enfoque:** Ayudo a negocios a eliminar tareas repetitivas y tomar decisiones basadas en datos reales.
+🚀 **Enfoque actual:** Desarrollando sistemas de IA con CrewAI y LangChain para optimizar procesos de negocio.  
+🐧 **Linux Power User:** Operando y optimizando entornos **Ubuntu/Debian desde 2013** (+10 años de experiencia).  
+🤖 **AI Productivity:** Usuario experto de **Antigravity** y agentes de codificación para acelerar ciclos de desarrollo.  
+📈 **Impacto probado:** He logrado la **automatización del 100%** de flujos de facturación y gestionado más de **115 mejoras técnicas** en ecosistemas de datos.
 
 ---
 
-### 🛠 Tech Stack & Herramientas
+# 🛠 Tech Stack & Herramientas
 
-Mi especialidad está en **Data** y **RPA**, pero cuento con un background sólido de Ingeniería Full Stack.
+Mi especialidad está en **Data** y **RPA**, pero cuento con un background sólido de Ingeniería Full Stack.  
 
-### 🤖 RPA & Automatización
+## 🧠 Inteligencia Artificial & Agentes
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-CrewAI%20%7C%20LangChain-blue)
+![GenAI](https://img.shields.io/badge/GenAI-RAG%20%7C%20Hugging%20Face-orange)
+![Antigravity](https://img.shields.io/badge/AI%20Coding-Antigravity-black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Redes Neuronales](https://img.shields.io/badge/Redes_Neuronales-5C5C5C?style=for-the-badge)
+![Aprendizaje Supervisado](https://img.shields.io/badge/Aprendizaje_Supervisado-5C5C5C?style=for-the-badge)
+![Aprendizaje No Supervisado](https://img.shields.io/badge/Aprendizaje_No_Supervisado-5C5C5C?style=for-the-badge)
+![Aprendizaje por Refuerzo](https://img.shields.io/badge/Aprendizaje_por_Refuerzo-5C5C5C?style=for-the-badge)
+
+## 🤖 RPA & Automatización
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6a1b9a?style=for-the-badge&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 📊 Data & Analytics
+## 📊 Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -31,17 +46,6 @@ Mi especialidad está en **Data** y **RPA**, pero cuento con un background sóli
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧠 Inteligencia Artificial & Machine Learning
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![Redes Neuronales](https://img.shields.io/badge/Redes_Neuronales-5C5C5C?style=for-the-badge)
-![Aprendizaje Supervisado](https://img.shields.io/badge/Aprendizaje_Supervisado-5C5C5C?style=for-the-badge)
-![Aprendizaje No Supervisado](https://img.shields.io/badge/Aprendizaje_No_Supervisado-5C5C5C?style=for-the-badge)
-![Aprendizaje por Refuerzo](https://img.shields.io/badge/Aprendizaje_por_Refuerzo-5C5C5C?style=for-the-badge)
-
 ## 💻 Ingeniería de Software (Backend & Frontend)
 ### Desarrollo de Software & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -51,19 +55,25 @@ Mi especialidad está en **Data** y **RPA**, pero cuento con un background sóli
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Kivy](https://img.shields.io/badge/Kivy-FF4500?style=for-the-badge&logo=kivy&logoColor=white)
 
-### Infraestructura & Tools
+## Infraestructura & Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu%20(Since%202013)-E94333?logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
-### 🧠 Soft Skills & Metodología
+## 🧠 Soft Skills & Metodología
 No solo escribo código, gestiono soluciones.
 * ✅ **Resolución Analítica:** Pensamiento crítico aplicado a problemas de negocio.
 * ✅ **Storytelling con Datos:** Transformo números en historias comprensibles.
 * ✅ **Agile & Teamwork:** Experiencia con metodologías ágiles (Scrum), Trello y ClickUp.
+
+---
+
+## 🌎 Languages
+- **Spanish:** Native.
+- **English:** Intermediate **(B1/B2)**. Strong technical documentation reading and writing skills.
 
 ---
 
